@@ -3,4 +3,14 @@
 
     <!-- contact_item -->
     <string name="image_photography">User photography</string>
+
+    <!-- menu options -->
+    <string name="menu_1">First menu</string>
+    <string name="menu_2">Second menu</string>
+    <string name="menu_3">Third menu</string>
+
+    <!-- Toasts menu options selected -->
+    <string name="toast_1">First menu clicked</string>
+    <string name="toast_2">Second menu clicked</string>
+    <string name="toast_3">Third menu clicked</string>
 </resources>
