@@ -13,4 +13,11 @@
     <string name="toast_1">First menu clicked</string>
     <string name="toast_2">Second menu clicked</string>
     <string name="toast_3">Third menu clicked</string>
+
+    <!-- Drawer Menu -->
+    <string name="drawer_menu_1">First option</string>
+    <string name="drawer_menu_2">Second option</string>
+    <string name="drawer_menu_3">Third option</string>
+    <string name="open_drawer">Open side menu</string>
+    <string name="closed_drawer">Closed side menu</string>
 </resources>
