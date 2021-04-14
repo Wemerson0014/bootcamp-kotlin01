@@ -20,4 +20,8 @@
     <string name="drawer_menu_3">Third option</string>
     <string name="open_drawer">Open side menu</string>
     <string name="closed_drawer">Closed side menu</string>
+
+    <!-- activity_contact_detail -->
+    <string name="image_contact">Photo contact</string>
+    <string name="toolbar_text_contact_detail">Contact Detail</string>
 </resources>
